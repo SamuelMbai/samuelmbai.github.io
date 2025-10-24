@@ -16,7 +16,7 @@ timezone:
 
 title: "Samuel  Mbai" # the main title
 
-tagline: "Cybersecurity Analyst | Cybersecurity Engineer | ICT Support specialist"A text-focused Jekyll theme # it will display as the subtitle
+tagline: Cybersecurity Analyst | Cybersecurity Engineer | ICT Support specialist # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
 My journey and projects in CyberSecurity Analyst 
