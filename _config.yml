@@ -18,8 +18,7 @@ title: "Samuel  Mbai" # the main title
 
 tagline: Cybersecurity Analyst | Cybersecurity Engineer | ICT Support specialist # it will display as the subtitle
 
-description:  # used by seo meta and the atom feed
-My journey and projects in CyberSecurity Analyst 
+description: My journey and projects in CyberSecurity Analyst 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://samuelmbai.github.io/"
@@ -40,8 +39,8 @@ social:
     - https://twitter.com/sammbai3 # change to your Twitter homepage
     - https://github.com/samuelmbai # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/samuel-mbai
+    - https://www.facebook.com/username
+    - https://www.linkedin.com/in/samuel-mbai
 
 # Site Verification Settings
 webmaster_verifications:
